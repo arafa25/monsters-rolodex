@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Monsters Rolodex React Web App
 
-Demo @ https://arafa11.github.io/monsters-rolodex/
+[Demo](https://arafa11.github.io/monsters-rolodex/)
